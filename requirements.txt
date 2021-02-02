@@ -1,0 +1,6 @@
+numpy==1.18.2 
+torch==1.4.0
+matplotlib==2.2.3
+skimage 
+opencv_python 
+pycocotools
